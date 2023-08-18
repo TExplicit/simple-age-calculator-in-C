@@ -1,2 +1,2 @@
 
-Just change "age = 2023-2005;" to yours
+Just change "age = 2023-2005;" to yours in main.c
