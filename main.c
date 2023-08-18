@@ -5,7 +5,7 @@ int main()
 {
 int age;
 age = 2023-2005;
-printf("Mohammed is %d years old", age);
+printf("Your age is %d  old", age);
 
 
     return 0;
